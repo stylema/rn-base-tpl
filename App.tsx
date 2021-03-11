@@ -2,8 +2,8 @@ import * as React from 'react';
 import {View, Text} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
-import IconFont from './src/iconfont';
-import ShoppingCartPage from './src/pages/ShoppingCartPage';
+import IconFont from './app/iconfont';
+import ShoppingCartPage from './app/pages/ShoppingCartPage';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {createMaterialTopTabNavigator} from '@react-navigation/material-top-tabs';
 
