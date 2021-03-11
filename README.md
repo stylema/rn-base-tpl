@@ -6,3 +6,5 @@
 
 
 # rn-base-tpl
+
+修改了package.json中的库版本
